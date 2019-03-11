@@ -1,8 +1,10 @@
 # 🍕 Tayary 
 ---------------------------------
 ## ✔ Main idea
+
 Tayara is delivery system which manage the process of receiving
 the orders and deliver it to the customer.
+
 ---------------------------------
 ## 📝 Project description
 Our system receive a list of orders as input.
