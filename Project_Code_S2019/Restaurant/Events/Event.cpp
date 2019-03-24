@@ -7,6 +7,10 @@ Event::Event(int eTime, int ordID)
 	OrderID	= ordID;
 }
 
+Event::Event()
+{
+}
+
 
 int Event::getEventTime()
 {
