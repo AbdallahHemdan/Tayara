@@ -13,6 +13,7 @@ protected:
 	int OrderID;	//each event is related to certain order
 public:
 	Event(int eTime, int ordID);
+	Event();
 	int getEventTime();
 	int getOrderID();
 	virtual ~Event();
