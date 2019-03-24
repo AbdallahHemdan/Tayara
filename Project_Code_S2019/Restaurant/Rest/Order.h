@@ -7,8 +7,8 @@ class Order
 {
 
 protected:
-	int ID;         //Each order has a unique ID (from 1 --> 999 )
-	ORD_TYPE type;		//order type: Normal, Frozen, VIP
+	int ID;			//Each order has a unique ID (from 1 --> 999 )
+	ORD_TYPE type;	//order type: Normal, Frozen, VIP
 	REGION Region;  //Region of this order
 	int Distance;	//The distance (in meters) between the order location and the resturant 
 	                
