@@ -5,6 +5,9 @@ using namespace std;
 
 #include "Restaurant.h"
 #include "..\Events\ArrivalEvent.h"
+#include "..\PromotionEvent.h"
+#include "..\CancellationEvent.h"
+
 
 
 Restaurant::Restaurant() 
@@ -119,6 +122,7 @@ void Restaurant::Just_A_Demo()
 	}	
 
 	int CurrentTimeStep = 1;
+	
 	//as long as events queue is not empty yet
 	while(!EventsQueue.isEmpty())
 	{
@@ -162,6 +166,5 @@ Order* Restaurant::getDemoOrder()
 	return pOrd;
 
 }
-
 
 /// ==> end of DEMO-related function
