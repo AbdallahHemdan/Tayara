@@ -9,12 +9,13 @@ class Motorcycle
 {
 	int ID;
 	ORD_TYPE type;	//for each order type there is a corresponding motorcycle type 
-	int speed;		//meters it can move in one clock tick (in one timestep)
+	int speed;	//meters it can move in one clock tick (in one timestep)
 	REGION	region;	//region of the motorcycle
 	STATUS	status;	//idle or in-service
 
 public:
 	Motorcycle();
+	Motorcycle(int Speed, REGION Region); // Initialize the Speed and the region of the motorCycle
 	virtual ~Motorcycle();
 };
 
