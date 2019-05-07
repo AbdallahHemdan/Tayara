@@ -1,0 +1,22 @@
+FT 	 ID 	 AT 	 WT 	 ST
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Region-A : 
+Orders : 0  [ Normal : 0,  Frozen : 0,  VIP : 0 ] 
+Motor Cycles : 11  [ Normal : 2 ,  Frozen : 3 , VIP : 6  ] 
+Average Waiting Time : -1.#IO ,  Average Service Time : -1.#IO
+-----------------------------------------------------
+Region-B : 
+Orders : 0  [ Normal : 0,  Frozen : 0,  VIP : 0 ] 
+Motor Cycles : 3  [ Normal : 1 ,  Frozen : 1 , VIP : 1  ] 
+Average Waiting Time : -1.#IO ,  Average Service Time : -1.#IO
+-----------------------------------------------------
+Region-C : 
+Orders : 0  [ Normal : 0,  Frozen : 0,  VIP : 0 ] 
+Motor Cycles : 0  [ Normal : 0 ,  Frozen : 0 , VIP : 0  ] 
+Average Waiting Time : -1.#IO ,  Average Service Time : -1.#IO
+-----------------------------------------------------
+Region-D : 
+Orders : 0  [ Normal : 0,  Frozen : 0,  VIP : 0 ] 
+Motor Cycles : 3  [ Normal : 1 ,  Frozen : 1 , VIP : 1  ] 
+Average Waiting Time : -1.#IO ,  Average Service Time : -1.#IO

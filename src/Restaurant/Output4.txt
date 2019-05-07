@@ -1,0 +1,40 @@
+FT 	 ID 	 AT 	 WT 	 ST
+7 	 1 	 7 	 0 	 0
+9 	 2 	 9 	 0 	 0
+9 	 3 	 9 	 0 	 0
+12 	 4 	 12 	 0 	 0
+19 	 5 	 19 	 0 	 0
+25 	 6 	 25 	 0 	 0
+31 	 7 	 30 	 0 	 1
+32 	 9 	 32 	 0 	 0
+32 	 8 	 31 	 0 	 1
+33 	 10 	 33 	 0 	 0
+34 	 11 	 34 	 0 	 0
+35 	 12 	 35 	 0 	 0
+38 	 13 	 38 	 0 	 0
+40 	 14 	 40 	 0 	 0
+45 	 15 	 45 	 0 	 0
+46 	 17 	 46 	 0 	 0
+46 	 18 	 46 	 0 	 0
+47 	 16 	 46 	 0 	 1
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+Region-A : 
+Orders : 5  [ Normal : 3,  Frozen : 2,  VIP : 0 ] 
+Motor Cycles : 15  [ Normal : 5 ,  Frozen : 3 , VIP : 7  ] 
+Average Waiting Time : 0.000 ,  Average Service Time : 0.000
+-----------------------------------------------------
+Region-B : 
+Orders : 3  [ Normal : 1,  Frozen : 0,  VIP : 2 ] 
+Motor Cycles : 19  [ Normal : 6 ,  Frozen : 3 , VIP : 10  ] 
+Average Waiting Time : 0.000 ,  Average Service Time : 0.000
+-----------------------------------------------------
+Region-C : 
+Orders : 5  [ Normal : 2,  Frozen : 2,  VIP : 1 ] 
+Motor Cycles : 26  [ Normal : 4 ,  Frozen : 2 , VIP : 20  ] 
+Average Waiting Time : 0.200 ,  Average Service Time : 0.200
+-----------------------------------------------------
+Region-D : 
+Orders : 5  [ Normal : 3,  Frozen : 2,  VIP : 0 ] 
+Motor Cycles : 46  [ Normal : 9 ,  Frozen : 4 , VIP : 33  ] 
+Average Waiting Time : 0.400 ,  Average Service Time : 0.400
