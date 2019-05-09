@@ -40,3 +40,10 @@ in.
 starts its delivery and to which it returns after delivery).
 - Note: The Motorcycle speed (the number of meters it can move in one timestep) is the
 same for all motorcycles of the same type
+
+## 🌜Dark Mode 
+
+  ![Dark Mode](https://user-images.githubusercontent.com/40190772/57427679-48aa7d80-7225-11e9-8fa0-a42449d31984.PNG)
+## ⛅Light Mode
+
+  ![Light Mode](https://user-images.githubusercontent.com/40190772/57427680-49431400-7225-11e9-9c42-ac56a3c8bbbc.PNG)
