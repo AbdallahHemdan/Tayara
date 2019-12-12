@@ -1,5 +1,10 @@
 # 🛵 Tayary 
 ---------------------------------
+[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Tayara)](https://github.com/AbdallahHemdan/Tayara/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Tayara)](https://github.com/AbdallahHemdan/Tayara/network)
+[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Tayara)](https://github.com/AbdallahHemdan/Tayara/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Tayara)](https://github.com/AbdallahHemdan/Tayara/blob/master/LICENSE)
+
 ## ✔ Main idea
 
 Tayara is delivery system which manage the process of receiving
