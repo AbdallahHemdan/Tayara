@@ -18,7 +18,7 @@
 
 ## ✔ Main idea
 
-**_Tayara is delivery system which manage the process of receiving the orders and deliver it to the customer_**
+> Tayara is delivery system which manage the process of receiving the orders and deliver it to the customer.
 
 ---------------------------------
 ## 📝 Project description
