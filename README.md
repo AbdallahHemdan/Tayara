@@ -1,3 +1,9 @@
+<div align="center">
+  
+  ![image](https://user-images.githubusercontent.com/40190772/80873320-ef4e2080-8cb7-11ea-868c-0ab4cc1df9f5.png)
+
+</div>
+
 <h3 align="center">🛵 Tayara</h3>
 
 <div align="center">
