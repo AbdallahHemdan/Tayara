@@ -1,6 +1,7 @@
 <div align="center">
   
-  ![image](https://user-images.githubusercontent.com/40190772/80873320-ef4e2080-8cb7-11ea-868c-0ab4cc1df9f5.png)
+  ![Tayara](https://user-images.githubusercontent.com/40190772/83947555-01bbfc80-a818-11ea-9093-c106b3649bab.png)
+
 
 </div>
 
